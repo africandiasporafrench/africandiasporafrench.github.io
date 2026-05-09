@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: African Diaspora French Class
-description: Summer Registration Deadline: May 30
+description: "Summer Registration Deadline: May 30"
 
 show_downloads: False
