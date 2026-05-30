@@ -32,7 +32,7 @@ Follow us on IG for language and diasporic content📸:
 
 https://www.instagram.com/adfc_prof_chenise?igsh=MXEyYTR5cDV4c2JtMg%3D%3D
 
-![QR Code for ADFC](adfc_qr.webp)
+![QR Code for ADFC](adfc_qr.png)
 
 ## For personalized French lessons with the prof (Chenise)
 
