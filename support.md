@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /support/
+---
+
 You tryna keep the Free Education Empire alive?? 👏🏿✊🏿🙏🏿​
 
 **There aren't many classes like this in existence! To support:**
