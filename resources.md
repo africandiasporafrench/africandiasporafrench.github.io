@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /resources/
+---
 
 [LANGUAGE LEARNING RESOURCES📝​](https://sneaky-surgeon-ba3.notion.site/LANGUAGE-LEARNING-RESOURCES-29799493931d80849552f50e80464787)
 
