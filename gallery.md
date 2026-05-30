@@ -1,5 +1,5 @@
 
-# Paris France
+# Paris, France
 
 ![](images/gallery_1.jpg)
 
