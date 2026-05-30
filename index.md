@@ -38,4 +38,4 @@ Follow us on IG for language and diasporic content📸:
 
 [Preply Chenise C., A fun university teacher who's dedicated to help… ](https://preply.in/CHENISE9EN3677784311?ts=17783654) $25/50min.
 
-[https://www.superprof.com/french-studies-phd-who-teaches-french-the-university-level-creating-fun-and-motivating-learning-environment.html](Superprof Chenise - French tutor in New Orleans - 27$/h)
+[Superprof Chenise - French tutor in New Orleans - 27$/h](https://www.superprof.com/french-studies-phd-who-teaches-french-the-university-level-creating-fun-and-motivating-learning-environment.html)
