@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /about/
+---
+
 ***ADFC is a free, digital community class for Black and Indigenous folks to world-build through skill-share. We practice French in our praxis to become global citizens, and we learn African and African diasporic history that ties to the American Gulf South to demystify the past and imagine better futures!*** 
 
 This course is geared towards adult learners with interest in the French language and African history. The missions of the class are to create a network of cool Black and Indigenous global citizens from all over, world-build by creating free access to education, and getting bi-lingual by learning *how* to learn languages. *We have been around since 2023 and don’t plan on slowin’ down!*
