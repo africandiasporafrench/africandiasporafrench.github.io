@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /gallery/
+---
 
 # Paris, France
 
