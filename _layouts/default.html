@@ -46,13 +46,13 @@
       <span class="banner-fix"></span>
 
       <nav class="main-nav" aria-label="Main navigation">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/courses' | relative_url }}">Courses</a>
-          <a href="{{ '/about' | relative_url }}">About</a>
-          <a href="{{ '/resources' | relative_url }}">Resources</a>
-          <a href="{{ '/support' | relative_url }}">Support</a>
-          <a href="{{ '/gallery' | relative_url }}">Gallery</a>
-          <a href="{{ '/contact' | relative_url }}">Contact</a>
+          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
+          <a href="{{ '/courses/' | relative_url }}" class="{% if page.url contains '/courses/' %}selected{% endif %}">Courses</a>
+          <a href="{{ '/about/' | relative_url }}" class="{% if page.url contains '/about/' %}selected{% endif %}">About</a>
+          <a href="{{ '/resources/' | relative_url }}" class="{% if page.url contains '/resources/' %}selected{% endif %}">Resources</a>
+          <a href="{{ '/support/' | relative_url }}" class="{% if page.url contains '/support/' %}selected{% endif %}">Support</a>
+          <a href="{{ '/gallery/' | relative_url }}" class="{% if page.url contains '/gallery/' %}selected{% endif %}">Gallery</a>
+          <a href="{{ '/contact/' | relative_url }}" class="{% if page.url contains '/contact/' %}selected{% endif %}">Contact</a>
         </nav>
 
 
