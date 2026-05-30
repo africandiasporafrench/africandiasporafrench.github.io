@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 *Soyez les bienvenus 😉 🇲🇶 🇬🇵 🇭🇹 ⚜ 🇸🇳 🇫🇷 🇹🇬 🇧🇯 🇨🇮 🇲🇷 🇲🇱 🇬🇳 🇨🇩 🇨🇬🇨🇫🇨🇲🇰🇲🇹🇬🇹🇩🇧🇪🇸🇨🇳🇪*
 
 # **We’re building a Free Education Empire😏**
