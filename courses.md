@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /courses/
+---
+
 # ADFC (African Diasporic **French** Class)
 
 - [SUMMER 2026 (Ongoing)](https://sneaky-surgeon-ba3.notion.site/SUMMER-2026-ONGOING-2a799493931d80dcb837cfc5c5b853dc?pvs=25)
