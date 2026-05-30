@@ -1,6 +1,6 @@
 **ADFC IG:** @adfc_prof_chenise 
 
-**ADFC FB**: [facebookapp African Diasporic French Class | Facebook](https://www.facebook.com/share/g/18fpXAqnvo/)
+**ADFC FB**: [facebookapp African Diasporic French Class \| Facebook](https://www.facebook.com/share/g/18fpXAqnvo/)
 
 **Email**:
 
