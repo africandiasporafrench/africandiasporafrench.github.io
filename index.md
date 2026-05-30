@@ -30,7 +30,7 @@
 
 Follow us on IG for language and diasporic content📸:  
 
-https://www.instagram.com/adfc_prof_chenise?igsh=MXEyYTR5cDV4c2JtMg%3D%3D
+[https://www.instagram.com/adfc_prof_chenise?igsh=MXEyYTR5cDV4c2JtMg%3D%3D](adfc_prof_chenise African Diasporic French Class (@adfc_prof_chenise))
 
 ![QR Code for ADFC](images/adfc_qr.png)
 
