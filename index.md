@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-*Soyez les bienvenus 😉 🇲🇶 🇬🇵 🇭🇹 ⚜ 🇸🇳 🇫🇷 🇹🇬 🇧🇯 🇨🇮 🇲🇷 🇲🇱 🇬🇳 🇨🇩 🇨🇬🇨🇫🇨🇲🇰🇲🇹🇬🇹🇩🇧🇪🇸🇨🇳🇪*
+*Soyez les bienvenus* 😉 🇲🇶 🇬🇵 🇭🇹 ⚜ 🇸🇳 🇫🇷 🇹🇬 🇧🇯 🇨🇮 🇲🇷 🇲🇱 🇬🇳 🇨🇩 🇨🇬🇨🇫🇨🇲🇰🇲🇹🇬🇹🇩🇧🇪🇸🇨🇳🇪
 
 # **We’re building a Free Education Empire😏**
 
